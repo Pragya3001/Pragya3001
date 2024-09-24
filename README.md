@@ -8,5 +8,5 @@ Welcome to my GitHub profile! I'm an aspiring data analyst with a passion for tr
 - Advanced data visualization techniques
 - Data storytelling and communication
 
-- 
+  
 
